@@ -2,6 +2,8 @@
 
 A lightweight Bash script to show quick server health information from the command line.
 
+https://roadmap.sh/projects/server-stats
+
 The script (`stats.sh`) prints:
 - Current date/time
 - Total CPU usage
